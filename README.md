@@ -1,13 +1,4 @@
-# K2 TypeScript Broker Template
-
-This is demonstrates best-practices for developing a K2 Broker using TypeScript.
-
-# Features
-
-  - Full object model intellisense for making development easier
-  - Sample broker code that accesses jsonplaceholder.
-  - Sample unit tests with mocks and code coverage.
-  - RollupJS configuration for TypeScript.
+# K2 Nexus JSSP based String Utilities
 
 ## Getting Started
 
